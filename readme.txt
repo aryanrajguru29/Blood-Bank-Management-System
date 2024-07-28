@@ -1,0 +1,1 @@
+The Blood Bank Management System is a web-based application developed to manage the operations of a blood bank. It allows for the management of donors, blood stock, and requests for blood. The system helps streamline the process of blood donation and ensures that blood is available when needed.
